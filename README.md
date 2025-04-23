@@ -2,7 +2,20 @@
 
 A simple web application that calculates tax based on user income and location.
 
-## 🔧 Setup Instructions
+## Technologies Used
+
+This project was built using the following technologies:
+
+- **React**  
+- **TypeScript**
+- **Tailwind CSS** 
+- **Lucide React**
+- **Vite**
+- **@react-pdf/renderer**
+
+---
+
+## Setup Instructions
 
 1. **Clone the repository:**
 
@@ -28,7 +41,7 @@ A simple web application that calculates tax based on user income and location.
 
 ---
 
-## 🚀 Deployment Instructions (Netlify)
+## Deployment Instructions
 
 You can easily deploy this project using Netlify. Here's how:
 
@@ -57,7 +70,7 @@ You can easily deploy this project using Netlify. Here's how:
 
 ---
 
-## 📝 Additional Notes
+## Additional Notes
 
 - Ensure you have **Node.js** and **npm** installed on your system.
 - This project uses **Vite** as a build tool.
