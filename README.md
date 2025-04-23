@@ -2,6 +2,8 @@
 
 A simple web application that calculates tax based on user income and location.
 
+---
+
 ## Technologies Used
 
 This project was built using the following technologies:
